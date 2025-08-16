@@ -1,6 +1,8 @@
 import { View, Text, StyleSheet, FlatList, Image } from 'react-native';
 import React, { useState, useEffect } from 'react';
 import yelp from '../api/yelp';
+import AddressCard from './components/AddressCard';
+import ReviewList from './components/ReviewList';
 
 const ResultsShowScreen = ({ navigation }) => {
   const id = navigation.getParam('id');
@@ -21,11 +23,64 @@ const ResultsShowScreen = ({ navigation }) => {
   }
 
   return (
-    <View>
-      <Text style={styles.headingStyle}>{result.name}</Text>
-      <Text>Phone: {result.phone}</Text>
+    <View style={{ paddingHorizontal: 10, paddingTop: 10 }}>
+      <View style={styles.headingStyle}>
+        <Text style={styles.headingTextStyle}>{result.name}</Text>
+        {/* Todo: Style adding a star here with an icon. */}
+        <Text>{result.rating} Stars</Text>
+      </View>
+      <View>
+        <AddressCard result={result} />
+        {result.photos && result.photos.length > 0 ? (
+          <FlatList
+            horizontal
+            style={styles.ImageListStyle}
+            data={result.photos}
+            keyExtractor={(photo) => photo}
+            renderItem={({ item }) => {
+              return (
+                <Image
+                  style={styles.ImageStyle}
+                  source={{ uri: item }}
+                  resizeMode='cover'
+                />
+              );
+            }}
+          />
+        ) : (
+          <Text>No photos available</Text>
+        )}
+        <ReviewList id={result.id} />
+      </View>
+    </View>
+  );
+};
 
-      {/* <FlatList
+const styles = StyleSheet.create({
+  headingStyle: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+  },
+  ImageStyle: {
+    width: 120,
+    height: 120,
+    marginHorizontal: 2,
+    borderRadius: 8,
+  },
+  ImageListStyle: {
+    height: 120,
+    marginVertical: 10,
+  },
+  headingTextStyle: {
+    fontSize: 40,
+    paddingBottom: 10,
+  },
+});
+
+export default ResultsShowScreen;
+
+{
+  /* <FlatList
         data={result.photos}
         keyExtractor={(photo) => photo}
         renderItem={({ item }) => {
@@ -36,19 +91,5 @@ const ResultsShowScreen = ({ navigation }) => {
             />
           );
         }}
-      /> */}
-    </View>
-  );
-};
-
-const styles = StyleSheet.create({
-  headingStyle: {
-    fontSize: 30,
-  },
-  ImageStyle: {
-    height: 200,
-    width: 300,
-  },
-});
-
-export default ResultsShowScreen;
+      /> */
+}

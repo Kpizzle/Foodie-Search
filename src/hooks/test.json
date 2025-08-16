@@ -1,0 +1,1917 @@
+{
+    "alias": "burgers-and-shakes-hollywood-4",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.0110802124341,
+        "longitude": -80.1759929688791
+    },
+    "display_phone": "(954) 399-8048",
+    "distance": 1233.0842630927873,
+    "id": "Ku-qOGh6mbtVHh8DQu8hrA",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/BTBCgAEfFgsBhRqun3KQPw/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "3331 Hollywood Blvd",
+        "address2": "",
+        "address3": null,
+        "city": "Hollywood",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33021"
+    },
+    "name": "Burgers & Shakes",
+    "phone": "+19543998048",
+    "price": "$$",
+    "rating": 4.1,
+    "review_count": 437,
+    "transactions": [
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/burgers-and-shakes-hollywood-4?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "305-degrees-burgers-bar-hollywood",
+    "categories": [
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.03316,
+        "longitude": -80.17774
+    },
+    "display_phone": "(954) 362-7986",
+    "distance": 1714.0913251753993,
+    "id": "estPL_MhC3NhbJk6bOnKeA",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/T-dqOmTq1dDEkZ2U0JO2nA/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "3393 Sheridan St",
+        "address2": null,
+        "address3": "",
+        "city": "Hollywood",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33021"
+    },
+    "name": "305 Degrees Burgers Bar",
+    "phone": "+19543627986",
+    "rating": 4.3,
+    "review_count": 52,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/305-degrees-burgers-bar-hollywood?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "jakes-drive-in-burgers-hollywood",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.0330764775309,
+        "longitude": -80.1608841866255
+    },
+    "display_phone": "(954) 849-0704",
+    "distance": 2721.5864605647653,
+    "id": "0-KK86fOPzAorLk5-2twAA",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/8QjPuq3qnUi4k1fF1MQeAQ/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "2622 Sheridan St",
+        "address2": "",
+        "address3": "",
+        "city": "Hollywood",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33020"
+    },
+    "name": "Jake's Drive In Burgers",
+    "phone": "+19548490704",
+    "rating": 5,
+    "review_count": 3,
+    "transactions": [],
+    "url": "https://www.yelp.com/biz/jakes-drive-in-burgers-hollywood?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "bmc-smash-burgers-oakland-park",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.1712864,
+        "longitude": -80.1318175
+    },
+    "display_phone": "",
+    "distance": 17631.25102685194,
+    "id": "HeGwi9a1ABUqc5oSd2Q7ew",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/x7UNTEqoAVR-iHzdvusHew/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "3499 N Dixie Hwy",
+        "address2": null,
+        "address3": null,
+        "city": "Oakland Park",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33334"
+    },
+    "name": "BMC Smash Burgers",
+    "phone": "",
+    "price": "$$",
+    "rating": 4.6,
+    "review_count": 90,
+    "transactions": [],
+    "url": "https://www.yelp.com/biz/bmc-smash-burgers-oakland-park?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "go-burger-el-garaje-hallandale",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 25.985463,
+        "longitude": -80.15956037116395
+    },
+    "display_phone": "(786) 816-0839",
+    "distance": 4510.612157052556,
+    "id": "gcXgibG9LD0J9BWx_2DV7w",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/jIR-MALcqOJYdRdcFL4TTg/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "826 W Hallandale Beach Blvd",
+        "address2": null,
+        "address3": "",
+        "city": "Hallandale",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33009"
+    },
+    "name": "Go Burger El Garaje",
+    "phone": "+17868160839",
+    "rating": 4.5,
+    "review_count": 14,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/go-burger-el-garaje-hallandale?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "le-tub-hollywood",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.018254,
+        "longitude": -80.11733
+    },
+    "display_phone": "(954) 921-9425",
+    "distance": 6635.635353177879,
+    "id": "dXe_VDOQVVF1NSMHQnL1-A",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/yM-1slHa5QxTsG863gATWg/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "1100 N Ocean Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Hollywood",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33019"
+    },
+    "name": "Le Tub",
+    "phone": "+19549219425",
+    "price": "$$",
+    "rating": 3.2,
+    "review_count": 2017,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/le-tub-hollywood?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "la-birra-bar-weston",
+    "categories": [
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.096670692805137,
+        "longitude": -80.38124627937844
+    },
+    "display_phone": "(786) 979-2693",
+    "distance": 21506.60313741034,
+    "id": "4Li6VBkSDS1cnxdeAQzfkg",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/GsIVg_vi4spJVWAJtIgZ3g/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "1830 Main St",
+        "address2": "",
+        "address3": null,
+        "city": "Weston",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33326"
+    },
+    "name": "La Birra Bar",
+    "phone": "+17869792693",
+    "rating": 3.6,
+    "review_count": 23,
+    "transactions": [],
+    "url": "https://www.yelp.com/biz/la-birra-bar-weston?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "tru-point-hollywood",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.012498,
+        "longitude": -80.14858799999999
+    },
+    "display_phone": "(786) 690-0789",
+    "distance": 3601.1530007098495,
+    "id": "u_138I6GF7ERTnOSJpv6Vw",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/8BPLYnN0r7Lh14iJ1PaWaQ/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "201 N 21st Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Hollywood",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33020"
+    },
+    "name": "Tru Point",
+    "phone": "+17866900789",
+    "rating": 4.9,
+    "review_count": 12,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/tru-point-hollywood?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "the-tipsy-boar-hollywood",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.01035012374673,
+        "longitude": -80.14525909483986
+    },
+    "display_phone": "(954) 920-2627",
+    "distance": 3981.922413862698,
+    "id": "Sad0QX_fJGahntZkf8fqjA",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/egOE3WTdM6C3f5Ua6uo-SA/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "1906 Harrison St",
+        "address2": "",
+        "address3": "",
+        "city": "Hollywood",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33020"
+    },
+    "name": "The Tipsy Boar",
+    "phone": "+19549202627",
+    "price": "$$",
+    "rating": 4.2,
+    "review_count": 1515,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/the-tipsy-boar-hollywood?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "la-birra-bar-north-miami-beach",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 25.912751,
+        "longitude": -80.15569184369258
+    },
+    "display_phone": "(305) 705-2143",
+    "distance": 12220.882224606084,
+    "id": "vlsHEu_oiGd6CGGg50oaAA",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/1NOi8y_pinsBFhpzl4kI_A/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "14831 Biscayne Blvd",
+        "address2": null,
+        "address3": "",
+        "city": "North Miami Beach",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33181"
+    },
+    "name": "La Birra Bar",
+    "phone": "+13057052143",
+    "price": "$$",
+    "rating": 4.4,
+    "review_count": 414,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/la-birra-bar-north-miami-beach?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "hard-rock-cafe-davie",
+    "categories": [
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.05205,
+        "longitude": -80.21127
+    },
+    "display_phone": "",
+    "distance": 4436.36997180217,
+    "id": "BXxcIKD1yMTgOrwHdUdAkw",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/asYYG25-4aWBOPQmTO_Bxg/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "1 Seminole Way",
+        "address2": "",
+        "address3": null,
+        "city": "Davie",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33314"
+    },
+    "name": "Hard Rock Cafe",
+    "phone": "",
+    "rating": 4.8,
+    "review_count": 5,
+    "transactions": [],
+    "url": "https://www.yelp.com/biz/hard-rock-cafe-davie?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "zanders-restaurant-hollywood",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.02429,
+        "longitude": -80.14357
+    },
+    "display_phone": "(954) 408-2830",
+    "distance": 4056.4406087562966,
+    "id": "NVhXhfQYK1UuHQfn-twtYg",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/GGy-PowzZnOz7zzmuFIewg/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "1428 N Federal Hwy",
+        "address2": null,
+        "address3": "",
+        "city": "Hollywood",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33020"
+    },
+    "name": "Zander's Restaurant",
+    "phone": "+19544082830",
+    "rating": 4.6,
+    "review_count": 23,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/zanders-restaurant-hollywood?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "gilberts-17th-street-grill-fort-lauderdale",
+    "categories": [
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.09843,
+        "longitude": -80.131488
+    },
+    "display_phone": "(954) 768-8990",
+    "distance": 10188.222981662486,
+    "id": "376DjQyPNqepvrXMMASHMA",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/u7traWTLiSRSZ9T6ZU8Tqw/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "1821 Cordova Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Fort Lauderdale",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33316"
+    },
+    "name": "Gilbert's 17th Street Grill",
+    "phone": "+19547688990",
+    "price": "$$",
+    "rating": 4.6,
+    "review_count": 1634,
+    "transactions": [
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/gilberts-17th-street-grill-fort-lauderdale?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "la-birra-bar-oakland-park",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.167513622758648,
+        "longitude": -80.11881784077265
+    },
+    "display_phone": "",
+    "distance": 17664.63570883557,
+    "id": "eQgd-mPRd1XkbhV8fanQ0w",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/tczvLOyxAznOnQlZ8UBLyg/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "2031 E Oakland Park Blvd",
+        "address2": "",
+        "address3": null,
+        "city": "Oakland Park",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33306"
+    },
+    "name": "La Birra Bar",
+    "phone": "",
+    "rating": 4.1,
+    "review_count": 88,
+    "transactions": [],
+    "url": "https://www.yelp.com/biz/la-birra-bar-oakland-park?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "north-south-grill-pembroke-pines",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.0064175,
+        "longitude": -80.3121049
+    },
+    "display_phone": "(954) 404-8308",
+    "distance": 13115.655507601063,
+    "id": "eGvDGqPDVL2pcPxUtroikQ",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Rg2DNO6pOVwAWH36quPyXQ/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "154 S Flamingo Rd",
+        "address2": "",
+        "address3": null,
+        "city": "Pembroke Pines",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33027"
+    },
+    "name": "North South Grill",
+    "phone": "+19544048308",
+    "price": "$$",
+    "rating": 4.7,
+    "review_count": 408,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/north-south-grill-pembroke-pines?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "smash-house-miami-north-miami-beach-2",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 25.926464,
+        "longitude": -80.169014
+    },
+    "display_phone": "(305) 351-9545",
+    "distance": 10470.814721957437,
+    "id": "tmy0KWa98RGYq0WytziC0w",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/F_b68YWsQOC2ZNWOcAslDA/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "1550 NE 164th St",
+        "address2": null,
+        "address3": "",
+        "city": "North Miami Beach",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33162"
+    },
+    "name": "Smash House Miami",
+    "phone": "+13053519545",
+    "rating": 4.4,
+    "review_count": 60,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/smash-house-miami-north-miami-beach-2?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "flying-cow-hollywood",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.04317,
+        "longitude": -80.20947
+    },
+    "display_phone": "(954) 961-3220",
+    "distance": 3668.748058981631,
+    "id": "RObglZf78Gz4G-i2NrUo2A",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/ippJMmK4TfI5ZcLyIrrdDQ/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "4150 N State Road 7",
+        "address2": "",
+        "address3": "Seminole Classic Casino",
+        "city": "Hollywood",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33021"
+    },
+    "name": "Flying Cow",
+    "phone": "+19549613220",
+    "rating": 3.9,
+    "review_count": 8,
+    "transactions": [],
+    "url": "https://www.yelp.com/biz/flying-cow-hollywood?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "quickies-burgers-and-wings-hollywood",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.001621,
+        "longitude": -80.207625
+    },
+    "display_phone": "(954) 981-9464",
+    "distance": 3123.1743438558688,
+    "id": "_JIxgKAzuhtHK46ELwJyJQ",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/3-eZX9ECfa8qxRdnyTeeWQ/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "1000 S State Rd 7",
+        "address2": "",
+        "address3": "",
+        "city": "Hollywood",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33023"
+    },
+    "name": "Quickie's Burgers & Wings",
+    "phone": "+19549819464",
+    "price": "$",
+    "rating": 3.5,
+    "review_count": 220,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/quickies-burgers-and-wings-hollywood?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "tiki-tiki-hollywood",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.052639494737328,
+        "longitude": -80.11457967614187
+    },
+    "display_phone": "(954) 927-9560",
+    "distance": 7816.904439935059,
+    "id": "_TrfZu8JJulOQVRLwj45-w",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/0DegTu2aJM9EXRDklHlbMg/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "6200 N Ocean Dr",
+        "address2": "",
+        "address3": null,
+        "city": "Hollywood",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33019"
+    },
+    "name": "Tiki Tiki",
+    "phone": "+19549279560",
+    "price": "$$",
+    "rating": 4.4,
+    "review_count": 809,
+    "transactions": [
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/tiki-tiki-hollywood?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "brgr-stop-fort-lauderdale",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.1366736761871,
+        "longitude": -80.1204736413787
+    },
+    "display_phone": "(954) 533-8621",
+    "distance": 14456.461618189242,
+    "id": "3_yOpsinudLGlju-B8_Q4w",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/vbhIKY8BORgGwUrY_C2RDQ/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "1930 E Sunrise Blvd",
+        "address2": "",
+        "address3": null,
+        "city": "Fort Lauderdale",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33304"
+    },
+    "name": "Brgr Stop",
+    "phone": "+19545338621",
+    "price": "$$",
+    "rating": 4.2,
+    "review_count": 602,
+    "transactions": [
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/brgr-stop-fort-lauderdale?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "culvers-cooper-city-2",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.0402,
+        "longitude": -80.2505
+    },
+    "display_phone": "(954) 399-9617",
+    "distance": 7050.345370280531,
+    "id": "N_HlIpsCq6RUYEL0Eyo6eg",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/mpXoidOuG52eTOWAgWRi0A/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "3700 University Dr",
+        "address2": "",
+        "address3": null,
+        "city": "Cooper City",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33024"
+    },
+    "name": "Culver's",
+    "phone": "+19543999617",
+    "rating": 3.6,
+    "review_count": 137,
+    "transactions": [],
+    "url": "https://www.yelp.com/biz/culvers-cooper-city-2?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "the-hen-and-the-hog-hollywood",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.013159811894504,
+        "longitude": -80.17610859157693
+    },
+    "display_phone": "",
+    "distance": 1054.26556192231,
+    "id": "cYSREvhwmG3ZKnIwpSSrsg",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/nJGnzWzm9XiB357uxpdz4w/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "380 N Park Rd",
+        "address2": "",
+        "address3": null,
+        "city": "Hollywood",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33021"
+    },
+    "name": "The Hen and the Hog",
+    "phone": "",
+    "price": "$$",
+    "rating": 4.5,
+    "review_count": 114,
+    "transactions": [],
+    "url": "https://www.yelp.com/biz/the-hen-and-the-hog-hollywood?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "paradise-tiki-of-dania-beach-dania-beach-2",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.052915434253045,
+        "longitude": -80.15563461900017
+    },
+    "display_phone": "(786) 897-8035",
+    "distance": 4635.561846367559,
+    "id": "0inHspHFpvwwh1ebpqnSfQ",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/BeluklWSCOToQg1I7vD9cw/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "90 N Bryan Rd",
+        "address2": null,
+        "address3": null,
+        "city": "Dania Beach",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33004"
+    },
+    "name": "Paradise Tiki of Dania Beach",
+    "phone": "+17868978035",
+    "price": "$$",
+    "rating": 4,
+    "review_count": 351,
+    "transactions": [
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/paradise-tiki-of-dania-beach-dania-beach-2?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "wapo-burger-hallandale-beach",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 25.986713,
+        "longitude": -80.128708
+    },
+    "display_phone": "(954) 589-0439",
+    "distance": 6616.462253616342,
+    "id": "LPRMI3o4RVaWdQA3YMWNDw",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/5DdgRLsQibfmHyd3GdSiMQ/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "1955 E Hallandale Beach Blvd",
+        "address2": "",
+        "address3": null,
+        "city": "Hallandale Beach",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33009"
+    },
+    "name": "Wapo Burger",
+    "phone": "+19545890439",
+    "rating": 4.8,
+    "review_count": 5,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/wapo-burger-hallandale-beach?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "habit-burger-and-grill-pembroke-pines",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.005532,
+        "longitude": -80.33374
+    },
+    "display_phone": "(954) 367-2241",
+    "distance": 15074.875313945604,
+    "id": "cTkb-bvNLLEYNfrzTd6sng",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/aoNN_l52nxaqoI4-Pb7hEw/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "306 SW 145th Ter",
+        "address2": "Ste 111",
+        "address3": "",
+        "city": "Pembroke Pines",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33027"
+    },
+    "name": "Habit Burger & Grill",
+    "phone": "+19543672241",
+    "price": "$",
+    "rating": 4,
+    "review_count": 199,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/habit-burger-and-grill-pembroke-pines?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "los-verdes-hallandale-beach",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 25.98791,
+        "longitude": -80.14759
+    },
+    "display_phone": "(954) 842-3574",
+    "distance": 5054.550528183057,
+    "id": "QoE1Kr76H8ClW3As_ietBA",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/PlFXHc09_Q3Pww8Z582mpg/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "144 NE 1st Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Hallandale Beach",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33009"
+    },
+    "name": "Los Verdes",
+    "phone": "+19548423574",
+    "rating": 3.9,
+    "review_count": 27,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/los-verdes-hallandale-beach?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "3-sons-brewing-dania-beach-2",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.057303424705683,
+        "longitude": -80.14325355231982
+    },
+    "display_phone": "(954) 601-3833",
+    "distance": 5813.61083180669,
+    "id": "FUfse_zJbPxHr61XJnr4og",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/CwaUAylMOY1XHxQWM2QFag/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "236 N Federal Hwy",
+        "address2": "",
+        "address3": null,
+        "city": "Dania Beach",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33004"
+    },
+    "name": "3 Sons Brewing",
+    "phone": "+19546013833",
+    "price": "$$",
+    "rating": 4.6,
+    "review_count": 572,
+    "transactions": [
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/3-sons-brewing-dania-beach-2?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "grumpy-gary-s-dania-beach",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.05883015488392,
+        "longitude": -80.1435722
+    },
+    "display_phone": "(754) 400-7241",
+    "distance": 5915.139138383036,
+    "id": "og6gnCTWTKVgtxOE72kVhg",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/fs8yfHm5v4JacPPHH1b8LQ/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "318 N Federal Hwy",
+        "address2": "",
+        "address3": null,
+        "city": "Dania Beach",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33004"
+    },
+    "name": "Grumpy Gary’s",
+    "phone": "+17544007241",
+    "rating": 3.8,
+    "review_count": 97,
+    "transactions": [],
+    "url": "https://www.yelp.com/biz/grumpy-gary-s-dania-beach?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "double-b-bbq-hollywood",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.011854397646346,
+        "longitude": -80.2120539
+    },
+    "display_phone": "(305) 813-4811",
+    "distance": 2964.0566719133167,
+    "id": "O9GE4YRiIuU6PjQTZ7bFsA",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/GHTdCSvkzVZpfn5XL8BksQ/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "300 NW 62nd Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Hollywood",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33024"
+    },
+    "name": "Double B BBQ",
+    "phone": "+13058134811",
+    "rating": 0,
+    "review_count": 0,
+    "transactions": [],
+    "url": "https://www.yelp.com/biz/double-b-bbq-hollywood?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "firebirds-wood-fired-grill-dania-beach",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.05213091332684,
+        "longitude": -80.15951836654071
+    },
+    "display_phone": "(954) 767-9333",
+    "distance": 4338.840692667489,
+    "id": "hYtPx__fZhHQjXbvosFYXQ",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/g8XEsmRoYeyVI_htv1291Q/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "110 N Pointe Dr",
+        "address2": null,
+        "address3": "",
+        "city": "Dania Beach",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33004"
+    },
+    "name": "Firebirds Wood Fired Grill",
+    "phone": "+19547679333",
+    "price": "$$",
+    "rating": 4.1,
+    "review_count": 653,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/firebirds-wood-fired-grill-dania-beach?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "why-not-hollywood",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.01582,
+        "longitude": -80.11561
+    },
+    "display_phone": "(954) 239-8075",
+    "distance": 6819.329144215728,
+    "id": "FmgwSZ8M3tL7iv5sG49UrA",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/yHDujx2ZgqygQqI81WD_fA/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "600 N Surf Rd",
+        "address2": null,
+        "address3": "",
+        "city": "Hollywood",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33019"
+    },
+    "name": "Why Not",
+    "phone": "+19542398075",
+    "rating": 4,
+    "review_count": 191,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/why-not-hollywood?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "ez-eat-hollywood",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.017565686413217,
+        "longitude": -80.1154868
+    },
+    "display_phone": "",
+    "distance": 6822.052576178743,
+    "id": "ysoUY9Ofq1cieJ2pOsEV9g",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/coLFppmEuPsW2Ofpx-F7xA/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "909 N Broadwalk",
+        "address2": null,
+        "address3": null,
+        "city": "Hollywood",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33019"
+    },
+    "name": "EZ Eat",
+    "phone": "",
+    "rating": 5,
+    "review_count": 10,
+    "transactions": [],
+    "url": "https://www.yelp.com/biz/ez-eat-hollywood?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "dos-pecados-hollywood-3",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.010599,
+        "longitude": -80.147743
+    },
+    "display_phone": "(954) 589-1518",
+    "distance": 3733.403054539757,
+    "id": "IphlX5Yb5FM9X0uOGhP1KA",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/qa4Lovc8na48bhwcTSHnLQ/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "2019 Harrison St",
+        "address2": "",
+        "address3": null,
+        "city": "Hollywood",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33020"
+    },
+    "name": "Dos Pecados",
+    "phone": "+19545891518",
+    "price": "$$",
+    "rating": 4.4,
+    "review_count": 40,
+    "transactions": [],
+    "url": "https://www.yelp.com/biz/dos-pecados-hollywood-3?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "jaxsons-ice-cream-parlor-and-restaurant-dania-beach",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.049500552533885,
+        "longitude": -80.14401410705176
+    },
+    "display_phone": "(954) 923-4445",
+    "distance": 5166.552639988587,
+    "id": "ncdiQiLiCzdvQ-FnWMwl7A",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/DgF9EziYgiGSMk2F3cBmYg/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "128 S Federal Hwy",
+        "address2": "",
+        "address3": "",
+        "city": "Dania Beach",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33004"
+    },
+    "name": "Jaxson's Ice Cream Parlor and Restaurant",
+    "phone": "+19549234445",
+    "price": "$$",
+    "rating": 4,
+    "review_count": 2111,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/jaxsons-ice-cream-parlor-and-restaurant-dania-beach?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "ggs-waterfront-hollywood",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.0157291883135,
+        "longitude": -80.117472202643
+    },
+    "display_phone": "(954) 929-7030",
+    "distance": 6634.395757311067,
+    "id": "7TzawonQb79u6wWNu9t2Dw",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/K6Ljxr83c4IL_UZ2g8dFBw/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "606 N Ocean Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Hollywood",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33019"
+    },
+    "name": "GG's Waterfront",
+    "phone": "+19549297030",
+    "price": "$$$",
+    "rating": 4.1,
+    "review_count": 2018,
+    "transactions": [
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/ggs-waterfront-hollywood?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "burgers-and-shakes-miami-beach",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 25.85976,
+        "longitude": -80.12063
+    },
+    "display_phone": "(305) 866-1145",
+    "distance": 18875.40761193853,
+    "id": "l35cT9vR9EUIyiWrKKLVZg",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/nT2CMi_yq6YHeIsy_qj3Sg/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "7401 Collins Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Miami Beach",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33141"
+    },
+    "name": "Burgers and Shakes",
+    "phone": "+13058661145",
+    "price": "$$",
+    "rating": 4.1,
+    "review_count": 802,
+    "transactions": [
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/burgers-and-shakes-miami-beach?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "bricked-burgers-north-miami",
+    "categories": [
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 25.889467375709454,
+        "longitude": -80.1651373
+    },
+    "display_phone": "",
+    "distance": 14603.063186641139,
+    "id": "AbhTrgSvKVP6BCCNBueoTQ",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/syNqJHu_NRJxOSGsLlPEpQ/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "1681 NE 123rd St",
+        "address2": "",
+        "address3": null,
+        "city": "North Miami",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33181"
+    },
+    "name": "Bricked Burgers",
+    "phone": "",
+    "rating": 4.8,
+    "review_count": 4,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/bricked-burgers-north-miami?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "burgerfi-dania-beach-2",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.051730021007845,
+        "longitude": -80.15997434297772
+    },
+    "display_phone": "(260) 444-4201",
+    "distance": 4276.462548169415,
+    "id": "K9HXzPkCr2Z94wKOXKF75w",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/k-XfAfWzPeIZ36bEWkLzqQ/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "11 S Pointe Dr",
+        "address2": "",
+        "address3": null,
+        "city": "Dania Beach",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33004"
+    },
+    "name": "BurgerFi",
+    "phone": "+12604444201",
+    "price": "$$",
+    "rating": 2.6,
+    "review_count": 151,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/burgerfi-dania-beach-2?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "jimmy-buffetts-margaritaville-restaurant-hollywood-2",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.01880010310997,
+        "longitude": -80.11581405087088
+    },
+    "display_phone": "(954) 874-4471",
+    "distance": 6785.859452931991,
+    "id": "nsSdU_rvOMUTOKTsvJI9HA",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/1yGqLSmxMouboIwB6SFZnQ/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "1111 N Ocean Dr",
+        "address2": null,
+        "address3": null,
+        "city": "Hollywood",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33019"
+    },
+    "name": "Jimmy Buffett's Margaritaville Restaurant",
+    "phone": "+19548744471",
+    "price": "$$",
+    "rating": 3.4,
+    "review_count": 631,
+    "transactions": [
+        "delivery",
+        "restaurant_reservation"
+    ],
+    "url": "https://www.yelp.com/biz/jimmy-buffetts-margaritaville-restaurant-hollywood-2?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "chef-reece-kitchen-davie",
+    "categories": [
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.05655991678536,
+        "longitude": -80.25306491165661
+    },
+    "display_phone": "(754) 888-9994",
+    "distance": 8048.436124735863,
+    "id": "48CYsddnqZbdEcCBWbgImA",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/0P5SSiZbxR98GMzY65JIpA/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "5187 S University Dr",
+        "address2": "",
+        "address3": null,
+        "city": "Davie",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33328"
+    },
+    "name": "Chef Reece Kitchen",
+    "phone": "+17548889994",
+    "price": "$$",
+    "rating": 4.3,
+    "review_count": 68,
+    "transactions": [],
+    "url": "https://www.yelp.com/biz/chef-reece-kitchen-davie?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "crazy-cooks-davie",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.066723,
+        "longitude": -80.211331
+    },
+    "display_phone": "(954) 581-0688",
+    "distance": 5909.044184016079,
+    "id": "QcDDS8AaUKPl3X0LHRBWkw",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/8E-PQOYUqBVqtiV3gu-Weg/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "4741 1/2 Orange Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Davie",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33314"
+    },
+    "name": "Crazy Cooks",
+    "phone": "+19545810688",
+    "price": "$$",
+    "rating": 4.9,
+    "review_count": 62,
+    "transactions": [
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/crazy-cooks-davie?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "burgerfi-hallandale-beach",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 25.986704026810813,
+        "longitude": -80.12858161
+    },
+    "display_phone": "(954) 455-0536",
+    "distance": 6621.612808496373,
+    "id": "rR2cbaB0TEtrnyGIkPKLrw",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/fHdeA1l239wlUbqtnPe0Bg/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "1955 E Hallandale Beach Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Hallandale",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33009"
+    },
+    "name": "BurgerFi",
+    "phone": "+19544550536",
+    "price": "$$",
+    "rating": 3.5,
+    "review_count": 273,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/burgerfi-hallandale-beach?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "twin-peaks-hollywood",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.01181,
+        "longitude": -80.14524
+    },
+    "display_phone": "(954) 477-7999",
+    "distance": 3944.356553631024,
+    "id": "C-Mvtuvq7r1mewdGgR_w8w",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/AEnc0T5Beb58kay46Xz3Zg/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "1903 Hollywood Blvd",
+        "address2": "",
+        "address3": "",
+        "city": "Hollywood",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33020"
+    },
+    "name": "Twin Peaks",
+    "phone": "+19544777999",
+    "price": "$$",
+    "rating": 3.9,
+    "review_count": 307,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/twin-peaks-hollywood?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "boss-tapas-burger-and-brew-hialeah",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 25.944129931936065,
+        "longitude": -80.34389479257977
+    },
+    "display_phone": "(786) 657-3702",
+    "distance": 18083.56697139067,
+    "id": "4A53AWWFJPTputTzKthP-g",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/tItFD2ZnsmSWP2ngvExBUA/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "18600 NW 87th Ave",
+        "address2": "Ste 117",
+        "address3": "",
+        "city": "Hialeah",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33015"
+    },
+    "name": "Boss Tapas Burger & Brew",
+    "phone": "+17866573702",
+    "price": "$$",
+    "rating": 4,
+    "review_count": 568,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/boss-tapas-burger-and-brew-hialeah?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "lucky-burger-southwest-ranch",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.0539065,
+        "longitude": -80.3139769
+    },
+    "display_phone": "(305) 803-2816",
+    "distance": 13557.886227312942,
+    "id": "gBAFsR7DOlf3GyjnwvyUEA",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/8SkABAq4NFz49xDWjbfHAA/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "5150 S Flamingo Rd",
+        "address2": null,
+        "address3": "",
+        "city": "Southwest Ranch ",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33330"
+    },
+    "name": "Lucky Burger",
+    "phone": "+13058032816",
+    "rating": 4.1,
+    "review_count": 9,
+    "transactions": [],
+    "url": "https://www.yelp.com/biz/lucky-burger-southwest-ranch?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "jacks-hollywood-diner-hollywood",
+    "categories": [
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.020754,
+        "longitude": -80.143113
+    },
+    "display_phone": "(954) 929-2888",
+    "distance": 4058.795875709661,
+    "id": "XHeXj93z3FMi_CjSXZclqg",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/8OwbQ9ra2gTHRiWtGAjzRQ/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "1031 N Federal Hwy",
+        "address2": "",
+        "address3": "",
+        "city": "Hollywood",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33020"
+    },
+    "name": "Jack's Hollywood Diner",
+    "phone": "+19549292888",
+    "price": "$$",
+    "rating": 4.1,
+    "review_count": 602,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/jacks-hollywood-diner-hollywood?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "bbs-kitchen-fort-lauderdale",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.13692,
+        "longitude": -80.153522
+    },
+    "display_phone": "(954) 234-7677",
+    "distance": 13389.884378990535,
+    "id": "FjF5j09ZouekgXYnKMNpeg",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/ESIxD3Mad_n-DQ4_IuAdYw/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "831 W Sunrise Blvd",
+        "address2": null,
+        "address3": "",
+        "city": "Fort Lauderdale",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33311"
+    },
+    "name": "BBs Kitchen",
+    "phone": "+19542347677",
+    "rating": 5,
+    "review_count": 1,
+    "transactions": [],
+    "url": "https://www.yelp.com/biz/bbs-kitchen-fort-lauderdale?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "lettuce-and-tomato-north-miami-beach",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 25.9333501,
+        "longitude": -80.1527605
+    },
+    "display_phone": "(305) 760-2260",
+    "distance": 10062.796990473264,
+    "id": "dhluZVxCNm8xAu1VxAWxZQ",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/BXIrO_IzhiJc0LmXfsNiPg/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "17070 W Dixie Hwy",
+        "address2": "",
+        "address3": "",
+        "city": "North Miami Beach",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33160"
+    },
+    "name": "Lettuce & Tomato",
+    "phone": "+13057602260",
+    "price": "$$",
+    "rating": 4.4,
+    "review_count": 749,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/lettuce-and-tomato-north-miami-beach?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "boston-johnnys-hollywood",
+    "categories": [
+        [Object
+        ],
+        [Object
+        ],
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.0305767059326,
+        "longitude": -80.1502380371094
+    },
+    "display_phone": "(954) 923-7650",
+    "distance": 3562.620677614488,
+    "id": "3CUhZTk37nc0jji8HDifxA",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/TAmwgnr8IDpKbhoaFaiBFQ/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "2120 N Dixie Hwy",
+        "address2": "",
+        "address3": "",
+        "city": "Hollywood",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33020"
+    },
+    "name": "Boston Johnny's",
+    "phone": "+19549237650",
+    "price": "$",
+    "rating": 4.1,
+    "review_count": 36,
+    "transactions": [
+        "pickup",
+        "delivery"
+    ],
+    "url": "https://www.yelp.com/biz/boston-johnnys-hollywood?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+},
+{
+    "alias": "fat-stork-davie",
+    "categories": [
+        [Object
+        ]
+    ],
+    "coordinates": {
+        "latitude": 26.063963835417116,
+        "longitude": -80.25758041967386
+    },
+    "display_phone": "(754) 200-8976",
+    "distance": 8868.481017133117,
+    "id": "3ytQHSR9nVmaplBM-ycwHQ",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/AYrvOuyRHqq1VC7yW-6-Yg/o.jpg",
+    "is_closed": false,
+    "location": {
+        "address1": "8270 Griffin Rd",
+        "address2": null,
+        "address3": "",
+        "city": "Davie",
+        "country": "US",
+        "display_address": [Array
+        ],
+        "state": "FL",
+        "zip_code": "33328"
+    },
+    "name": "Fat Stork",
+    "phone": "+17542008976",
+    "price": "$$",
+    "rating": 4.6,
+    "review_count": 307,
+    "transactions": [],
+    "url": "https://www.yelp.com/biz/fat-stork-davie?adjust_creative=W1dNi6Ziy5O0z-dk2LOQow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=W1dNi6Ziy5O0z-dk2LOQow"
+}

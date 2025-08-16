@@ -7,11 +7,13 @@ import ResultsList from './components/ResultsList';
 const SearchScreen = () => {
   const [term, setTerm] = useState('');
   const [searchApi, results, errorMessage] = useResults();
-  console.log(results);
 
   const filterResultsByPrice = (price) => {
     return results.filter((result) => {
-      return result.price == price;
+      if (!price) {
+        return !result.price;
+      }
+      return result.price && result.price.length === price;
     });
   };
 
@@ -30,16 +32,20 @@ const SearchScreen = () => {
       ) : null}
       <ScrollView>
         <ResultsList
-          results={filterResultsByPrice('$')}
+          results={filterResultsByPrice(1)}
           title='Cost Effective'
         />
         <ResultsList
-          results={filterResultsByPrice('$$')}
+          results={filterResultsByPrice(2)}
           title='Bit Pricier'
         />
         <ResultsList
-          results={filterResultsByPrice('$$$')}
+          results={filterResultsByPrice(3)}
           title='Big Spender'
+        />
+        <ResultsList
+          results={filterResultsByPrice(0)}
+          title='Unknown'
         />
       </ScrollView>
     </View>

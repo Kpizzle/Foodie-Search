@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "food",
-    "slug": "food",
+    "slug": "foodie-search",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,7 +13,11 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kyle.potter.foodiesearch",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -24,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0ee29893-a1bf-4402-91ec-4553c3e0ac10"
+      }
+    },
+    "owner": "kyle.potter"
   }
 }

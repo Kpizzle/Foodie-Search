@@ -22,8 +22,10 @@ const ResultsShowScreen = ({ navigation }) => {
 
   return (
     <View>
-      <Text>{result.name}</Text>
-      <FlatList
+      <Text style={styles.headingStyle}>{result.name}</Text>
+      <Text>Phone: {result.phone}</Text>
+
+      {/* <FlatList
         data={result.photos}
         keyExtractor={(photo) => photo}
         renderItem={({ item }) => {
@@ -34,12 +36,15 @@ const ResultsShowScreen = ({ navigation }) => {
             />
           );
         }}
-      />
+      /> */}
     </View>
   );
 };
 
 const styles = StyleSheet.create({
+  headingStyle: {
+    fontSize: 30,
+  },
   ImageStyle: {
     height: 200,
     width: 300,

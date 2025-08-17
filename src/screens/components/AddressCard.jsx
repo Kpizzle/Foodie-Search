@@ -5,10 +5,10 @@ const AddressCard = ({ result }) => {
   const { address1, address2, address3, city } = result.location;
   return (
     <View style={styles.AddressCardStyle}>
-      {address1 ? <Text>{address1}</Text> : null}
-      {address2 ? <Text>{address2}</Text> : null}
-      {address3 ? <Text>{address3}</Text> : null}
-      {city ? <Text>{city}</Text> : null}
+      {address1 ? <Text style={styles.textStyle}>{address1}</Text> : null}
+      {address2 ? <Text style={styles.textStyle}>{address2}</Text> : null}
+      {address3 ? <Text style={styles.textStyle}>{address3}</Text> : null}
+      {city ? <Text style={styles.textStyle}>{city}</Text> : null}
     </View>
   );
 };
@@ -16,6 +16,10 @@ const AddressCard = ({ result }) => {
 const styles = StyleSheet.create({
   AddressCardStyle: {
     marginTop: 10,
+    color: 'white',
+  },
+  textStyle: {
+    color: 'white',
   },
 });
 

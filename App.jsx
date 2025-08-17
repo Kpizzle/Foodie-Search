@@ -14,6 +14,7 @@ const navigator = createStackNavigator(
     initialRouteName: 'Search',
     defaultNavigationOptions: {
       title: 'Foodie',
+      headerShown: false,
     },
   }
 );

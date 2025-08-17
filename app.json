@@ -35,5 +35,13 @@
       }
     },
     "owner": "kyle.potter"
-  }
+  },
+  "plugins": [
+    [
+      "expo-location",
+      {
+        "locationAlwaysAndWhenInUsePermission": "Allow Foodie to use your location."
+      }
+    ]
+  ]
 }

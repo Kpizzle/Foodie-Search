@@ -3,6 +3,7 @@ import React, { useState, useEffect } from 'react';
 import yelp from '../api/yelp';
 import AddressCard from './components/AddressCard';
 import ReviewList from './components/ReviewList';
+import AntDesign from '@expo/vector-icons/AntDesign';
 
 const ResultsShowScreen = ({ navigation }) => {
   const id = navigation.getParam('id');
@@ -23,11 +24,23 @@ const ResultsShowScreen = ({ navigation }) => {
   }
 
   return (
-    <View style={{ paddingHorizontal: 10, paddingTop: 10 }}>
+    <View
+      style={{
+        paddingHorizontal: 10,
+        paddingTop: 10,
+        backgroundColor: '#351531',
+        flex: 1,
+      }}>
       <View style={styles.headingStyle}>
         <Text style={styles.headingTextStyle}>{result.name}</Text>
-        {/* Todo: Style adding a star here with an icon. */}
-        <Text>{result.rating} Stars</Text>
+        <Text style={styles.resultStyle}>
+          {result.rating}
+          <AntDesign
+            name='star'
+            size={14}
+            color='#ffa500'
+          />
+        </Text>
       </View>
       <View>
         <AddressCard result={result} />
@@ -74,22 +87,11 @@ const styles = StyleSheet.create({
   headingTextStyle: {
     fontSize: 40,
     paddingBottom: 10,
+    color: 'white',
+  },
+  resultStyle: {
+    color: 'white',
   },
 });
 
 export default ResultsShowScreen;
-
-{
-  /* <FlatList
-        data={result.photos}
-        keyExtractor={(photo) => photo}
-        renderItem={({ item }) => {
-          return (
-            <Image
-              style={styles.ImageStyle}
-              source={{ uri: item }}
-            />
-          );
-        }}
-      /> */
-}

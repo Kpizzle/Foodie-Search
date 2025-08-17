@@ -4,8 +4,8 @@ import React from 'react';
 const ReviewCard = ({ review }) => {
   return (
     <View style={style.cardStyle}>
-      <Text>Customer Rating: {review.rating}</Text>
-      <Text>{review.text}</Text>
+      <Text style={style.reviewText}>Customer Rating: {review.rating}</Text>
+      <Text style={style.reviewText}>{review.text}</Text>
       <Text style={style.userNameStyle}>{review.user.name}</Text>
     </View>
   );
@@ -19,6 +19,10 @@ const style = StyleSheet.create({
   },
   userNameStyle: {
     paddingTop: 10,
+    color: 'white',
+  },
+  reviewText: {
+    color: 'white',
   },
 });
 
